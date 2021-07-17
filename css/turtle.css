@@ -47,5 +47,20 @@ p{
 	color: royalblue;
 }
 a{
-	color: #e70c19;
+	color: #green;
+}
+a:hover{
+	color: White;
+	background-color: #483a94;
+}
+footer{
+		background-color: #d14635;
+		text-align: center;
+		color: white;
+}
+footer a{
+	color: white;
+}
+footer a:hover{
+	color: white;
 }
